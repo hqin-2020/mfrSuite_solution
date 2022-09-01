@@ -9,7 +9,7 @@ nShocks: 3
 verbatim: 0
 run: chiUnderline_1000_a_e_0150_a_h_0100_gamma_e_1000_gamma_h_3000_psi_e_1000_psi_h_1000
 folderName: chiUnderline_1000_a_e_0150_a_h_0100_gamma_e_1000_gamma_h_3000_psi_e_1000_psi_h_1000/
-preLoad: None
+preLoad: chiUnderline_1000_a_e_0150_a_h_0100_gamma_e_1000_gamma_h_3000_psi_e_1000_psi_h_1000
 method: 2
 dt: 0.1
 dtInner: 0.1
@@ -50,7 +50,7 @@ omegaMax: 0.99
 zMin -0.0993056
 zMax: 0.0993056
 vMin: 1e-05
-vMax: -nan
+vMax: nan
 VtildeMin: 1e-05
 VtildeMax: 1.90289
 cov11: 1
